@@ -1,0 +1,21 @@
+| units: 100 tech: scmos format: MIT
+p a_17_n30# vdd f 4 10 68 2
+n a gnd a_17_n30# 4 10 13 -29
+p a vdd a_17_n30# 4 10 13 2
+n a_17_n30# gnd f 4 10 68 -29
+p b a_17_n30# vdd 4 10 37 2
+n b a_17_n30# a_17_n30# 4 10 37 -29
+C vdd a 2.22
+C vdd a_17_n30# 2.69
+C vdd b 2.22
+C gnd GND 20.68
+R gnd 1464
+C f GND 5.17
+R f 89
+C a_17_n30# GND 23.20
+R a_17_n30# 591
+C b GND 10.51
+R b 300
+C a GND 10.51
+R a 300
+R vdd 10548
