@@ -20,7 +20,8 @@ Magic is a Very-large-scale integration (VLSI) layout tool originally written by
 4. **For editing the layout:** you can edit the layout by entering commands in the command window called **tkcon 2.3 main**  
 5. Further tutorials for Magic can be found here http://opencircuitdesign.com/magic/tutorials/tut1.html.  
 ## CMOS AND GATE:  
-The output state of a digital logic AND gate only returns “LOW” again when ANY of its inputs are at a logic level “0”. In other words for a logic AND gate, any LOW input will give a LOW output.  
+The output state of a digital logic AND gate only returns “LOW” again when ANY of its inputs are at a logic level “0”. In other words for a logic AND gate, any LOW input will give a LOW output.  ![Screenshot_2021-05-03 cmos and gate picture - Google Search](https://user-images.githubusercontent.com/81563886/116918434-50ad2480-ac69-11eb-8a08-b4cdeb095027.png)
+
 
 # Designing a CMOS AND GATE on magic VLSI layout tool:  
  Below is the picture of the andgate I designed:  
